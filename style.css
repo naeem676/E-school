@@ -59,4 +59,13 @@ img{
 .div-ex{
           box-shadow: 0 0 10px gray;
 }
+.testimonial{
+          text-align: start;
+
+}
+.black{
+          background-color: black;
+          color: #fff;
+          padding-top: 20px;
+}
 
