@@ -20,7 +20,7 @@ img{
           color: peru;
 }
 .btn{
-          color: #fff;
+          color: #fff !important;
           background-color: #2fa470;
           border-radius: 30px;
           padding: 5px 20px;
@@ -61,6 +61,13 @@ img{
           background-color: black;
           color: #fff;
           padding-top: 20px;
+}
+@media only screen and(max-width:480px) {
+          .bok{
+                    width: 100%;
+                    justify-content: center;
+                    align-items: center;
+          }
 }
 
 
