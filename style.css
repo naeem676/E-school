@@ -1,0 +1,41 @@
+*{
+          margin: 0;
+          padding: 0;
+}
+.logo{
+          width: 20%;
+}
+img{
+          width: 100%;
+}
+.ban{
+          padding: 10px 10px;
+          
+}
+.green{
+          color: #57ff8f;
+}
+small{
+          color: peru;
+}
+.btn{
+          color: #fff;
+          background-image: linear-gradient(to bottom, #57ff8f, #06ff9f);
+          border-radius: 30px;
+
+}
+.active{
+          color: #fff !important;
+          background-image: linear-gradient(to bottom, #57ff8f, #06ff9f);
+          border-radius: 30px;
+          padding: 5px 20px;
+          font-size: 100%;
+
+}
+.bok{
+          width: 30%;
+}
+.text{
+          text-align:center ;
+}
+
