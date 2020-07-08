@@ -1,7 +1,8 @@
-*{
-          margin: 0;
-          padding: 0;
+
+body{
+          font-family: 'Quicksand', sans-serif;
 }
+
 .logo{
           width: 20%;
 }
@@ -13,20 +14,20 @@ img{
           
 }
 .green{
-          color: #57ff8f;
+          color: #2fa470;
 }
-small{
+.smal{
           color: peru;
 }
 .btn{
           color: #fff;
-          background-image: linear-gradient(to bottom, #57ff8f, #06ff9f);
+          background-color: #2fa470;
           border-radius: 30px;
 
 }
 .active{
           color: #fff !important;
-          background-image: linear-gradient(to bottom, #57ff8f, #06ff9f);
+          background-color: #2fa470;
           border-radius: 30px;
           padding: 5px 20px;
           font-size: 100%;
@@ -37,5 +38,25 @@ small{
 }
 .text{
           text-align:center ;
+}
+.online{
+          text-align: center;
+}
+.sml{
+          width: 10%;
+}
+.cal{
+          display: flex;
+          float: left;
+          align-items: center;
+          text-align: center;
+          
+}
+.card{
+          border: none;
+          box-shadow: 0 0 10px gray;
+}
+.div-ex{
+          box-shadow: 0 0 10px gray;
 }
 
