@@ -23,12 +23,6 @@ img{
           color: #fff;
           background-color: #2fa470;
           border-radius: 30px;
-
-}
-.active{
-          color: #fff !important;
-          background-color: #2fa470;
-          border-radius: 30px;
           padding: 5px 20px;
           font-size: 100%;
 
@@ -68,4 +62,5 @@ img{
           color: #fff;
           padding-top: 20px;
 }
+
 
